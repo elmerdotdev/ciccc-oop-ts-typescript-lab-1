@@ -1,6 +1,6 @@
 # OOP and TS - TypeScript Lab Day 1
 
-Complete the 5 exercises by finishing the different systems and filling in the missing code.
+Complete the 5 exercises by filling in the missing code and finishing the different systems. Make sure to add more test cases if needed.
 
 ## Instructions
 
